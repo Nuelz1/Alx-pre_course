@@ -1,3 +1,2 @@
-My first readme
-
-up_to_date
+Alx-pre_school
+I'm now a ALX Student, this is my first repository as a full-stack engineer
